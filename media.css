@@ -1,0 +1,27 @@
+@media (max-width: 520px) {
+    #canvas1 {
+        width: 480px;
+        height: 686px;
+    }
+}
+
+@media (max-width: 500px) {
+    #canvas1 {
+        width: 450px;
+        height: 656px;
+    }
+}
+
+@media (max-width: 450px) {
+    #canvas1 {
+        width: 430px;
+        height: 636px;
+    }
+}
+
+@media (max-width: 440px) {
+    #canvas1 {
+        width: 400px;
+        height: 606px;
+    }
+}
